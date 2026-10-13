@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to make Serving, Line, and Live Wait operate simultaneously with monotonic countdowns, handle skipped tokens cleanly by updating history and resetting the active card to idle, simplify in-app alerts into floating auto-dismiss toasts, and fix the QR receipt cross-device scanning 404 issue with full official receipt verification.",
+  "updatedAt": "2026-10-13T06:48:45.476370460Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

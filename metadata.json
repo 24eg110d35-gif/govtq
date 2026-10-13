@@ -1,0 +1,6 @@
+{
+  "name": "SmartGov Queue",
+  "description": "Smart Government Queue Management System for transparent citizen token allocation, live waiting estimates, counter management, and service operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
